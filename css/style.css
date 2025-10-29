@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(135deg, #242425, #6f42c1);
+    color: white;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+p {
+  margin-bottom: 24px;
+}
+
+h1, h2 {
+  margin-bottom: 32px;
+}
+
+ul.centered-list {
+  list-style-position: inside;
+  text-align: center;
+  padding-left: 0;
+}
+
+.img-carrusel {
+  max-width: 600px;  
+  max-height: 350px;  
+  margin: 0 auto;     
+  display: block;     
+  object-fit: contain; 
+}
