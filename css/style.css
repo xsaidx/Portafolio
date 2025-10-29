@@ -27,8 +27,8 @@ ul.centered-list {
 }
 
 .img-carrusel {
-  max-width: 600px;  
-  max-height: 350px;  
+  max-width: 600%;  
+  max-height: 350%;  
   margin: 0 auto;     
   display: block;     
   object-fit: contain; 
